@@ -1,5 +1,4 @@
-# hello-world
-sure, everybody needs a hello world ^^
+sure, everybody needs a some README ^^
 
 # About me
 I'm Oskar van Velden, 34 years old and I live in Dordrecht
